@@ -25,22 +25,22 @@ You can click the Preview link to take a look at your changes.
   <h5 align="center">Machine Learnist</h5>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nsomazr&style=flat-square&color=blue"  alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=isackodero&style=flat-square&color=blue"  alt=""/>
   </div>
 <hr>
 <div id="badges" align="center">
     <a href="https://t.me/IsackOdero">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/zephania-reuben-a42233185/">
+  <a href="https://www.linkedin.com/in/isack-odero-2a422117b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://twitter.com/nsomazr">
+    <a href="https://twitter.com/IsackOdero">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UChTMJrIWqc2JnB8h3c-EyaQ?view_as=subscriber">
+ <!-- <a href="https://www.youtube.com/channel/UChTMJrIWqc2JnB8h3c-EyaQ?view_as=subscriber">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a>-->
 </div>
 <hr>
 
