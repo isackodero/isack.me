@@ -1,8 +1,10 @@
+<!---
 - 👋 Hi, I’m @isackodero
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- --->
 
 <!---
 isackodero/isackodero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"> Hi there 👋 </h3>
 
 <div class="alert alert-success">
-  <h2 align="center">I'm Zephania Reuben</h2>
+  <h2 align="center">I'm Isack Odero</h2>
   <h5 align="center">Machine Learnist</h5>
 </div>
 <div align="center">
