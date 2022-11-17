@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 <hr>
 <div id="badges" align="center">
-    <a href="https://t.me/nsomazr">
+    <a href="https://t.me/IsackOdero">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/zephania-reuben-a42233185/">
