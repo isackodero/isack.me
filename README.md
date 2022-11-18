@@ -67,11 +67,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isackodero&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isackodero&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isackodero&layout=compact&theme=vision-friendly-dark)](https://github.com/isackodero/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=isackodero&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isackodero&layout=compact&theme=vision-friendly-dark)](https://github.com/isackodero/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isackodero&show_icons=true&theme=merko)
 
 <div align="center">
   <h3>😄😄😄</h3> 
