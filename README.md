@@ -48,7 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="Networkx" alt="Networkx" width="40" height="40"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="Networkx" alt="Networkx" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -63,7 +63,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="PHP" alt="LaTex" width="40" height="40"/>&nbsp;
 </div>
-
+<hr>
 
 ### :fire: My Stats :
 <div id="header" align="center">
@@ -73,6 +73,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isackodero&layout=compact&theme=vision-friendly-dark)](https://github.com/isackodero/github-readme-stats)
 
 </div>
+
+<hr>
 <div align="center">
   <h3>😄😄😄</h3> 
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
