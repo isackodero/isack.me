@@ -34,13 +34,8 @@
 
 <!-- ### :man_teacher: Facilitation : -->
 
-<div>
-  <h2></h2>
-</div>
 
-<div>
-  
-</div>
+
 
 
 
