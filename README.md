@@ -3,14 +3,14 @@
 </div>
 
 <hr>
-<h3 align="center"> Hi there 👋 </h3>
+<h3 align="center"> Hi 👋 </h3>
 
 <div class="alert alert-success">
   <h2 align="center">I'm Isack Odero</h2>
-  <h5 align="center">Machine Learnist</h5>
+  <h3 align="center">I love to train Deep Neural Net in a low resource dataset</h3>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isackodero&style=flat-square&color=blue"  alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=oderoi&style=flat-square&color=blue"  alt=""/>
   </div>
 <hr>
 <div id="badges" align="center">
