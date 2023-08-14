@@ -64,14 +64,15 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="PHP" alt="LaTex" width="40" height="40"/>&nbsp; -->
 </div>
 <hr>
-
+<!---
 ### :fire: My Stats :
 <div id="header" align="center">
-  
+-->
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oderoi&theme=dark&background=000000)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oderoi&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oderoi&layout=compact&theme=vision-friendly-dark)](https://github.com/oderoi/github-readme-stats)
-
+<!--
 </div>
 
 <hr>
@@ -79,7 +80,7 @@
   <h3>😄😄😄</h3> 
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
-
+-->
 
 <!---
 -
