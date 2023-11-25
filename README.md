@@ -57,7 +57,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Java" width="40" height="40"/>&nbsp; -->
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=MW0yA5q1&id=A8BEE446CFA27DA911EF310C4D3C20079D4921CF&thid=OIP.MW0yA5q1-mSzcG41RfLxpQHaDO&mediaurl=https%3a%2f%2fcanada1.discourse-cdn.com%2ffree1%2fuploads%2ffortran_lang%2foptimized%2f2X%2f9%2f98926f2cd4f7a2c5a0f1f0f1a3393d10bdef2656_2_690x301.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.316d32039ab5fa64b3706e3545f2f1a5%3frik%3dzyFJnQcgPE0MMQ%26pid%3dImgRaw%26r%3d0&exph=301&expw=690&q=mojo+programming+language+logo+in+github&simid=608013077291472746&FORM=IRPRST&ck=C68ACDF07E200B5EB6A4993920953E45&selectedIndex=3&ajaxhist=0&ajaxserp=0" title="C++" alt="Java" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Markdown" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; -->
