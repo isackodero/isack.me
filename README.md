@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="./brain_electron.gif" width="400"/>
 </div>
 
-<hr>
+<hr>-->
 <h3 align="center"> Hi 👋 </h3>
 
 <div class="alert alert-success">
